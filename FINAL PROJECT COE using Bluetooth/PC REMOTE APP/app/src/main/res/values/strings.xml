@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PC Remote</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mouse_pad">mousePad</string>
+    <string name="title_activity_device_list">deviceList</string>
+    <string name="title_activity_powerpoint">Powerpoint</string>
+    <string name="title_activity_wmp">WMP</string>
+    <string name="title_activity_mouse">Mouse</string>
+    <string name="title_activity_menuoptions">Menu</string>
+    <string name="title_activity_menuoptions11">menuoptions11</string>
+    <string name="aa">Mouse</string>
+    <string-array name="list">
+        <item>1-Introduction.ppt</item>
+        <item>2-Monte Carlo.ppt</item>
+        <item>3-Project Manager.ppt</item>
+        <item>4-Project Organisation.ppt</item>
+        <item>5-Project Planning.ppt</item>
+        <item>6-Project Risk2.ppt</item>
+        <item>7-Project Selection.ppt</item>
+        <item>8-Application Layer.ppt</item>
+        <item>9-FTP+DNS.pptx</item>
+        <item>10-Intro_Delay.ppt</item>
+    </string-array>
+    <string-array name="list1">
+        <item>1-</item>
+        <item>2-</item>
+        <item>3-</item>
+        <item>4-</item>
+        <item>5-</item>
+        <item>6-</item>
+        <item>7-</item>
+        <item>8-</item>
+        <item>9-</item>
+        <item>10</item>
+    </string-array>
+    <string name="title_activity_keyboard">keyboard</string>
+</resources>
